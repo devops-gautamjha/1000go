@@ -1,0 +1,2 @@
+Name of Program is :-  /tmp/go-build2466084680/b001/exe/main
+Number of arguments are :-  3

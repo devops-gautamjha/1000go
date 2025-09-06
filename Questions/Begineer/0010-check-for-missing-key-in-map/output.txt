@@ -1,0 +1,5 @@
+The age of Gautam is 24
+The age of Alice is 30
+The age of Bob is 25
+0
+Tom not found
