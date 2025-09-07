@@ -1,0 +1,23 @@
+The Student of rollno. 6 is Gautam 
+The Student of rollno. 7 is Hardik 
+The Student of rollno. 1 is Aman 
+The Student of rollno. 8 is Ishita 
+The Student of rollno. 9 is Julie 
+The Student of rollno. 10 is Krishna 
+The Student of rollno. 2 is Arjun 
+The Student of rollno. 3 is Bhaskar 
+The Student of rollno. 4 is Chandu 
+The Student of rollno. 5 is Divakar 
+
+The Student of rollno. 1 is Aman 
+The Student of rollno. 8 is Ishita 
+The Student of rollno. 10 is Krishna 
+The Student of rollno. 2 is Arjun 
+The Student of rollno. 3 is Bhaskar 
+The Student of rollno. 4 is Chandu 
+The Student of rollno. 5 is Divakar 
+The Student of rollno. 6 is Gautam 
+The Student of rollno. 7 is Hardik 
+
+
+The order may vary 
